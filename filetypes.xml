@@ -1,0 +1,9 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="stuff" type="JAVA" />
+      <mapping pattern="StuffNew" type="JAVA" />
+      <mapping pattern="Stuff" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
